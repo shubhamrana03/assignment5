@@ -20,7 +20,7 @@ class Display
 {
  Display(int r, int s)
 {
- System.out.println(r+"+ "+"i"+s);
+ System.out.println(r+"+ "+s+"i");
 
 }
 }
